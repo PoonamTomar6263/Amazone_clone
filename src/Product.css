@@ -1,0 +1,35 @@
+.product{
+    /* border: 2px solid yellow; */
+    background-color: rgb(245, 244, 243);
+    background-color: white;
+    margin-top: 50px;
+    width: 20%;
+   
+   
+    
+}
+.product_rating{
+    display:flex ;
+    color: orange;
+ 
+}
+
+.product_image > img{
+   
+    /* height: 20px; */
+    object-fit: contain;
+  padding: 20px;
+}
+.product_info{
+    font-weight: bold;
+    padding-left: 10px;
+}
+.btn_add{
+   
+    padding:5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-left: 25%;
+    margin-bottom: 5%;
+}

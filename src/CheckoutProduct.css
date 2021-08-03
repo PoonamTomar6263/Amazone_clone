@@ -1,0 +1,15 @@
+.checkoutProduct{
+    font-weight: bold;
+    margin: 20px;
+}
+.checkout_product_info > img{
+    margin: 10px;
+}
+.btn-remove{
+    font-weight: bold;
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(248, 242, 232);
+    
+}

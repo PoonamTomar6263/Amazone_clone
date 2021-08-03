@@ -1,0 +1,15 @@
+.checkout{
+    display: flex;
+}
+.checkout_left >h2{
+    margin: 10px;
+    color: coral;
+   
+}
+.checkout_right{
+    position: absolute;
+    
+    right: 0%;
+    margin-top: 5px;
+   text-align: left;
+}
